@@ -3,4 +3,4 @@
 
 
 
-[![RyanHSA2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanHSA2001)](https://github.com/anuraghazra/github-readme-stats)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanHSA2001&show_icons=true&theme=radical)
